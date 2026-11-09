@@ -1,0 +1,72 @@
+komoditas,status,pct_seluruh,bulan_deret,lubang_terpanjang_hari,masih_tercatat,n_satuan,keaktifan_pct,bukan_dikecualikan,terisi_90,deret_36_bulan,satu_satuan,tercatat_bulan_akhir,tidak_konstan,lolos,alasan_gagal
+Tomat,LENGKAP,99.7,44,3,True,1,100.0,True,True,True,True,True,True,True,
+Bayam (Jenis Sayur),LENGKAP,99.7,44,3,True,1,97.7,True,True,True,True,True,True,True,
+Buncis,LENGKAP,99.7,44,3,True,1,97.7,True,True,True,True,True,True,True,
+Kubis,LENGKAP,99.7,44,3,True,1,97.7,True,True,True,True,True,True,True,
+Bawang Bombay,LENGKAP,99.7,44,3,True,1,90.7,True,True,True,True,True,True,True,
+Kacang Hijau,LENGKAP,99.7,44,3,True,1,88.4,True,True,True,True,True,True,True,
+Kangkung (Jenis Panjang),LENGKAP,99.7,44,3,True,1,88.4,True,True,True,True,True,True,True,
+Kentang,LENGKAP,99.7,44,3,True,1,88.4,True,True,True,True,True,True,True,
+Wortel (Kualitas Lokal),LENGKAP,99.7,44,3,True,1,88.4,True,True,True,True,True,True,True,
+Kacang Kedelai (Kualitas Import),LENGKAP,99.6,44,3,True,1,86.0,True,True,True,True,True,True,True,
+Udang Segar (Uk. Sedang),LENGKAP,99.7,44,3,True,1,83.7,True,True,True,True,True,True,True,
+Ketela Pohon,LENGKAP,99.7,44,3,True,1,81.4,True,True,True,True,True,True,True,
+Terong Ungu (Jenis Sayur),LENGKAP,99.7,44,3,True,1,81.4,True,True,True,True,True,True,True,
+Kacang Kedelai (Kualitas Lokal),LENGKAP,99.7,44,3,True,1,76.7,True,True,True,True,True,True,True,
+Telur Ayam Kampung,LENGKAP,99.6,44,3,True,1,74.4,True,True,True,True,True,True,True,
+Gula Jawa/Merah (Bahan Kelapa),LENGKAP,99.7,44,3,True,1,72.1,True,True,True,True,True,True,True,
+Ikan Teri Asin (Bukan Teri Medan),LENGKAP,99.7,44,3,True,1,72.1,True,True,True,True,True,True,True,
+Jagung Pipilan Kering (Jenis Besar),LENGKAP,99.7,44,3,True,1,69.8,True,True,True,True,True,True,True,
+Kacang Tanah (Jenis Besar),LENGKAP,99.7,44,3,True,1,67.4,True,True,True,True,True,True,True,
+Sawi (Jenis Hijau),LENGKAP,99.7,44,3,True,1,67.4,True,True,True,True,True,True,True,
+Jagung Pipilan Kering (Jenis Kecil),LENGKAP,99.7,44,3,True,1,60.5,True,True,True,True,True,True,True,
+Ubi Jalar,LENGKAP,99.7,44,3,True,1,60.5,True,True,True,True,True,True,True,
+Tahu biasa,LENGKAP,93.2,42,3,True,1,58.5,True,True,True,True,True,True,True,
+Beras Ketan (Jenis Siyem),LENGKAP,99.7,44,3,True,1,58.1,True,True,True,True,True,True,True,
+Garam Halus (Cap Kapal),LENGKAP,99.7,44,3,True,1,53.5,True,True,True,True,True,True,True,
+Beras Jagung,LENGKAP,99.7,44,3,True,1,48.8,True,True,True,True,True,True,True,
+Mentega Curah (Amanda),LENGKAP,99.4,44,3,True,1,46.5,True,True,True,True,True,True,True,
+Tempe Kw I (campuran kedelai),LENGKAP,93.1,42,3,True,1,43.9,True,True,True,True,True,True,True,
+Tahu susu,LENGKAP,93.2,42,3,True,1,39.0,True,True,True,True,True,True,True,
+"Susu Kental Manis ""INDOMILK"" Putih",LENGKAP,99.7,44,3,True,1,27.9,True,True,True,True,True,True,True,
+Gas LPG Tabung (3 Kg.),LENGKAP,99.6,44,3,True,1,25.6,True,True,True,True,True,True,True,
+Telur Ayam Broiler,BERLUBANG,11.4,34,640,False,1,100.0,True,False,False,True,False,True,False,"terisi_90, deret_36_bulan, tercatat_bulan_akhir"
+Cabe Merah Besar,DIKECUALIKAN,99.7,44,3,True,1,100.0,False,True,True,True,True,True,False,bukan_dikecualikan
+Cabe Merah Kriting,DIKECUALIKAN,99.7,44,3,True,1,100.0,False,True,True,True,True,True,False,bukan_dikecualikan
+Bawang Putih (Jenis Sinco),DIKECUALIKAN,99.7,44,3,True,1,97.7,False,True,True,True,True,True,False,bukan_dikecualikan
+Cabe Merah Kecil-Rawit,DIKECUALIKAN,99.7,44,3,True,1,97.7,False,True,True,True,True,True,False,bukan_dikecualikan
+Bawang Merah (Kualitas Lokal),DIKECUALIKAN,99.7,44,3,True,1,95.3,False,True,True,True,True,True,False,bukan_dikecualikan
+Telur Ayam Horn,DIKECUALIKAN,88.3,44,92,True,1,91.4,False,False,True,True,True,True,False,"bukan_dikecualikan, terisi_90"
+Bawang Putih (Jenis Kating),DIKECUALIKAN,99.7,44,3,True,1,90.7,False,True,True,True,True,True,False,bukan_dikecualikan
+Daging Ayam Broiler,DIKECUALIKAN,99.7,44,3,True,1,90.7,False,True,True,True,True,True,False,bukan_dikecualikan
+Apel,DERET PENDEK,66.0,30,3,True,1,89.7,True,False,False,True,True,True,False,"terisi_90, deret_36_bulan"
+Ikan Bandeng Segar (Uk. Sedang),DIKECUALIKAN,99.7,44,3,True,1,86.0,False,True,True,True,True,True,False,bukan_dikecualikan
+Ikan Mujair Segar (Uk. Sedang),DIKECUALIKAN,99.7,44,3,True,1,86.0,False,True,True,True,True,True,False,bukan_dikecualikan
+Gula Pasir Lokal Curah,DIKECUALIKAN,99.7,44,3,True,1,79.1,False,True,True,True,True,True,False,bukan_dikecualikan
+Ikan Tongkol Segar (Uk. Sedang),DIKECUALIKAN,99.7,44,3,True,1,79.1,False,True,True,True,True,True,False,bukan_dikecualikan
+Beras Medium Non Bulog,DIKECUALIKAN,88.8,44,119,True,1,74.4,False,False,True,True,True,True,False,"bukan_dikecualikan, terisi_90"
+Semangka,DERET PENDEK,66.0,30,3,True,1,72.4,True,False,False,True,True,True,False,"terisi_90, deret_36_bulan"
+Pepaya,DERET PENDEK,66.0,30,3,True,1,69.0,True,False,False,True,True,True,False,"terisi_90, deret_36_bulan"
+Jeruk,DERET PENDEK,66.0,30,3,True,1,65.5,True,False,False,True,True,True,False,"terisi_90, deret_36_bulan"
+Ikan Lele Segar (Ukuran Sedang),DIKECUALIKAN,99.7,44,3,True,1,62.8,False,True,True,True,True,True,False,bukan_dikecualikan
+Melon,DERET PENDEK,66.0,30,3,True,1,62.1,True,False,False,True,True,True,False,"terisi_90, deret_36_bulan"
+Minyak Goreng Curah (Bening),DIKECUALIKAN,97.6,44,28,True,1,61.0,False,True,True,True,True,True,False,bukan_dikecualikan
+Daging Sapi Grade Bawah,DIKECUALIKAN,99.7,44,3,True,1,60.5,False,True,True,True,True,True,False,bukan_dikecualikan
+Daging Sapi Grade Sedang,DIKECUALIKAN,99.7,44,3,True,1,55.8,False,True,True,True,True,True,False,bukan_dikecualikan
+Beras Premium,DIKECUALIKAN,99.6,44,3,True,1,53.5,False,True,True,True,True,True,False,bukan_dikecualikan
+Beras Medium Bulog,DIKECUALIKAN,81.6,44,133,True,1,48.6,False,False,True,True,True,True,False,"bukan_dikecualikan, terisi_90"
+Daging Sapi Grade Atas,DIKECUALIKAN,99.6,44,3,True,1,44.2,False,True,True,True,True,True,False,bukan_dikecualikan
+"Tepung Terigu ""Segitiga Biru"" Curah",DIKECUALIKAN,99.7,44,3,True,1,41.9,False,True,True,True,True,True,False,bukan_dikecualikan
+"Tepung Terigu ""Segitiga Biru"" Kemasan",DERET PENDEK,66.5,30,3,True,1,37.9,True,False,False,True,True,True,False,"terisi_90, deret_36_bulan"
+Pisang,DERET PENDEK,65.5,29,3,True,1,32.1,True,False,False,True,True,True,False,"terisi_90, deret_36_bulan"
+Minyak Kita,DIKECUALIKAN,93.2,42,28,True,1,30.8,False,True,True,True,True,True,False,bukan_dikecualikan
+Indomie Goreng,LENGKAP,99.7,44,3,True,1,23.3,True,True,True,True,True,False,False,tidak_konstan
+Air Mineral (Aqua Galon),LENGKAP,99.6,44,3,True,1,23.3,True,True,True,True,True,False,False,tidak_konstan
+Tempe Kw III (campuran kulit),LENGKAP,93.0,42,3,True,1,22.0,True,True,True,True,True,False,False,tidak_konstan
+"Susu Bubuk ""DANCOW"" Full Cream",BERLUBANG,88.3,44,92,True,1,20.0,True,False,True,True,True,False,False,"terisi_90, tidak_konstan"
+Tempe Kw II (campuran jagung),LENGKAP,93.1,42,3,True,1,7.3,True,True,True,True,True,False,False,tidak_konstan
+Sabun Detergen Rinso (Anti Noda),LENGKAP,99.5,44,3,True,1,7.0,True,True,True,True,True,False,False,tidak_konstan
+"Sabun Colek ""Wing's Biru""",LENGKAP,99.5,44,3,True,1,4.7,True,True,True,True,True,False,False,tidak_konstan
+"Susu Kental Manis ""Bendera"" Putih",BERLUBANG,11.4,34,640,False,1,0.0,True,False,False,True,False,False,False,"terisi_90, deret_36_bulan, tercatat_bulan_akhir, tidak_konstan"
+Tahu,FRAGMEN,0.5,1,0,False,1,,True,False,False,True,False,False,False,"terisi_90, deret_36_bulan, tercatat_bulan_akhir, tidak_konstan"
+Tempe,FRAGMEN,0.5,1,0,False,1,,True,False,False,True,False,False,False,"terisi_90, deret_36_bulan, tercatat_bulan_akhir, tidak_konstan"

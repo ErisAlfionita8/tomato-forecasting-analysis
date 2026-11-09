@@ -1,0 +1,32 @@
+komoditas,pct_hari_terisi,pct_bulan_valid,pct_anomali,lubang_terpanjang,n_lubang,bulan_deret,keaktifan_pct
+Bawang Bombay,99.7,100.0,0.0,3,2,44,90.7
+Bayam (Jenis Sayur),99.7,100.0,0.0,3,2,44,97.7
+Beras Jagung,99.7,100.0,0.0,3,2,44,48.8
+Beras Ketan (Jenis Siyem),99.7,100.0,0.0,3,2,44,58.1
+Buncis,99.7,100.0,0.15,3,2,44,97.7
+Garam Halus (Cap Kapal),99.7,100.0,0.0,3,2,44,53.5
+Gas LPG Tabung (3 Kg.),99.6,100.0,0.0,3,4,44,25.6
+Gula Jawa/Merah (Bahan Kelapa),99.7,100.0,0.0,3,2,44,72.1
+Ikan Teri Asin (Bukan Teri Medan),99.7,100.0,0.0,3,2,44,72.1
+Jagung Pipilan Kering (Jenis Besar),99.7,100.0,0.075,3,2,44,69.8
+Jagung Pipilan Kering (Jenis Kecil),99.7,100.0,0.0,3,2,44,60.5
+Kacang Hijau,99.7,100.0,0.0,3,2,44,88.4
+Kacang Kedelai (Kualitas Import),99.6,100.0,0.0,3,4,44,86.0
+Kacang Kedelai (Kualitas Lokal),99.7,100.0,0.0,3,2,44,76.7
+Kacang Tanah (Jenis Besar),99.7,100.0,0.0,3,2,44,67.4
+Kangkung (Jenis Panjang),99.7,100.0,0.0,3,2,44,88.4
+Kentang,99.7,100.0,0.0,3,2,44,88.4
+Ketela Pohon,99.7,100.0,0.0,3,2,44,81.4
+Kubis,99.7,100.0,0.075,3,2,44,97.7
+Mentega Curah (Amanda),99.4,100.0,0.0,3,5,44,46.5
+Sawi (Jenis Hijau),99.7,100.0,0.0,3,2,44,67.4
+"Susu Kental Manis ""INDOMILK"" Putih",99.7,100.0,0.0,3,2,44,27.9
+Tahu biasa,93.2,93.2,0.16,3,2,42,58.5
+Tahu susu,93.2,93.2,0.0,3,2,42,39.0
+Telur Ayam Kampung,99.6,100.0,0.075,3,3,44,74.4
+Tempe Kw I (campuran kedelai),93.1,93.2,0.0,3,3,42,43.9
+Terong Ungu (Jenis Sayur),99.7,100.0,0.0,3,2,44,81.4
+Tomat,99.7,100.0,0.0,3,2,44,100.0
+Ubi Jalar,99.7,100.0,0.0,3,2,44,60.5
+Udang Segar (Uk. Sedang),99.7,100.0,0.0,3,2,44,83.7
+Wortel (Kualitas Lokal),99.7,100.0,0.0,3,2,44,88.4

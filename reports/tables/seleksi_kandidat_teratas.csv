@@ -1,0 +1,11 @@
+komoditas,peringkat_volatilitas,volatilitas_pct,peringkat_robust,volatilitas_robust,tren_pct_per_bulan,arah_tren,keaktifan_pct,pct_seluruh,bulan_deret,lubang_terpanjang_hari,pct_anomali
+Tomat,1,26.04,1,15.1,-0.05,tanpa tren jelas,100.0,99.7,44,3,0.0
+Buncis,2,13.35,2,12.16,0.27,tanpa tren jelas,97.7,99.7,44,3,0.15
+Bayam (Jenis Sayur),3,11.81,5,4.77,1.19,naik,97.7,99.7,44,3,0.0
+Bawang Bombay,4,10.65,6,4.05,0.43,tanpa tren jelas,90.7,99.7,44,3,0.0
+Wortel (Kualitas Lokal),5,8.43,4,5.49,0.55,naik,88.4,99.7,44,3,0.0
+Kubis,6,8.13,3,7.77,0.18,tanpa tren jelas,97.7,99.7,44,3,0.08
+Kangkung (Jenis Panjang),7,6.77,11,3.2,0.74,naik,88.4,99.7,44,3,0.0
+Sawi (Jenis Hijau),8,4.79,7,3.93,0.66,naik,67.4,99.7,44,3,0.0
+Kacang Kedelai (Kualitas Lokal),9,4.72,12,2.59,0.17,tanpa tren jelas,76.7,99.7,44,3,0.0
+Terong Ungu (Jenis Sayur),10,4.28,8,3.79,0.03,tanpa tren jelas,81.4,99.7,44,3,0.0
